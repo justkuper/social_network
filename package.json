@@ -1,0 +1,28 @@
+{
+  "name": "social_network",
+  "version": "1.0.0",
+  "description": "Social media website to post thoughts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justkuper/social_network.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "network"
+  ],
+  "author": "Kuper Bank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justkuper/social_network/issues"
+  },
+  "homepage": "https://github.com/justkuper/social_network#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  }
+}
